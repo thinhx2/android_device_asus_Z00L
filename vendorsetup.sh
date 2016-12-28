@@ -1,3 +1,0 @@
-add_lunch_combo xosp_Z00L-user
-add_lunch_combo xosp_Z00L-userdebug
-add_lunch_combo xosp_Z00L-eng
